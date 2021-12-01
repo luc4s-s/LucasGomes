@@ -28,6 +28,5 @@ Se quiser interagir comigo, entre em contato no Linkedin, Instagram ou WhatsApp 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widtf="40" height="40" style="max-width:100%;margin: 0 2px;"/></img>
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGomes)](https://github.com/luc4s-s)
 
 #### Que o futuro nos reserve dias bons! 🙏🏽❤🍃
